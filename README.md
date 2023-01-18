@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)[insert your hyperlink here]
+(GitHub Pages)[git@github.com:DS4200-S23-Class/ic-02-nvictory01.git]
 
 ## Purpose
 
